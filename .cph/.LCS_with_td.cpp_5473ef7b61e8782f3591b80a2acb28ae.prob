@@ -1,0 +1,1 @@
+{"name":"Local: LCS_with_td","url":"/workspaces/Phitron/LCS_with_td.cpp","tests":[{"id":1696226495827,"input":"abcaa\naabcc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/Phitron/LCS_with_td.cpp","group":"local","local":true}
